@@ -561,7 +561,7 @@ footer {
     }
 
     .container {
-        height: 16.5rem;
+        height: 18.5rem;
     }
 
     .container p {
@@ -600,9 +600,6 @@ footer {
     float: none;
     display: block;
     text-align: left;
-    }
-    .container {
-        height: 19.5rem;
     }
 } 
 
