@@ -601,5 +601,8 @@ footer {
     display: block;
     text-align: left;
     }
+    .container {
+        height: 19.5rem;
+    }
 } 
 
